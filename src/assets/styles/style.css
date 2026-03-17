@@ -1,0 +1,18 @@
+body {
+  background-color: #eef0f3;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
+.err {
+  color: rgb(165, 29, 29);
+  margin-bottom: 10px;
+}
+.err-block {
+  color: rgb(165, 29, 29);
+  margin: 0 auto;
+}
